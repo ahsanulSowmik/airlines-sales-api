@@ -19,5 +19,4 @@ public class Food {
     private double price;
     private LocalDate saleDate;
 
-    // Getters and Setters
 }
